@@ -6,9 +6,5 @@ Online fast food siparişleri verebiceğin web sitesi
 
 HTML, CSS, JAVASCRIPT kodlandı.
 
-# yemeksitesi
-# yemeksitesi
-# yemeksitesi
-# restaurant-web-site
-# restaurant
+![](yemeksitesi.gif)
 # yemeksitesi
